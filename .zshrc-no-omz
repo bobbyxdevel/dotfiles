@@ -1,1 +1,14 @@
+# Load zinit
+source ~/.zinit/bin/zinit.zsh
+
+# Load plugins
+zinit light zsh-users/zsh-syntax-highlighting
+zinit light zsh-users/zsh-autosuggestions
+
+# Load a theme (optional)
+zinit light romkatv/powerlevel10k
+
+# Additional configurations
+# Add your custom configurations here
+
 #test
